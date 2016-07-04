@@ -125,7 +125,7 @@ p.title {
 p.s-left-txt {
     padding: 0px 10px;
     font-size: 14px;
-    line-height: 15px;
+    line-height: 22px;
     text-align: justify;
     margin-top: 18px;
     color: #6b6b6b;
@@ -134,7 +134,7 @@ p.s-left-txt {
         color: #6b6b6b;
 }
 .profile {
-    margin-bottom: 34px;
+    margin-bottom: 19px;
 }
 .ul-contact {
     color: #6b6b6b;
@@ -166,7 +166,7 @@ p.s-left-txt {
 }
 .scills-line {
     height: 23px;
-    width: 70%;
+    width: 53%;
     background: #eea7a3;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
@@ -249,14 +249,14 @@ img.flag {
 .scills-2 .scills-line{
  width: 85%;   
 }
-.scills-3 .scills-line{
- width: 75%;   
+.scills-3 .scills-line {
+    width: 72%;
 }
 .scills-4 .scills-line{
  width: 65%;   
 }
-.scills-5 .scills-line{
- width: 94%;   
+.scills-5 .scills-line {
+    width: 65%;
 }
 
 .contact {
@@ -447,6 +447,14 @@ p.name-language {
     padding: 20px;
     margin: 0 auto;
     display: block;
+}
+    p.s-left-txt {
+    padding: 0px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 18px;
+    color: #6b6b6b;
 }
 section .content {
     width: auto;
